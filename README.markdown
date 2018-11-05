@@ -2,8 +2,7 @@ A [Giter8][g8] template with a simple Scala project with Property Checks and Sca
 
 Template license
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
-[other author/contributor lines as appropriate]
+Written in 2018 by elbaulp 
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
