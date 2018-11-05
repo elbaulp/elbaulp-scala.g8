@@ -1,4 +1,4 @@
-A [Giter8][g8] template with a simple Scala project with Property Checks and ScalaTest.
+A [Giter8][g8] template with a simple Scala project with Property Checks, ScalaTest and log4j.
 
 Template license
 ----------------
